@@ -40,11 +40,11 @@ class Process implements Runnable {
     private long creationTime; // Time when process was created (in milliseconds)
     private long totalWaitingTime; // Total time spent waiting in queue (in milliseconds)
     private long lastReadyTime; // Last time the process entered the ready queue
-
     
     // Constructor to initialize the process with name, burst time, and time quantum
     // FEATURE 1: Added priority parameter to constructor
      // FEATURE 3: Initialize timing fields
+
    public Process(String name, int burstTime, int timeQuantum, int priority) {
         this.name = name;
         this.burstTime = burstTime;
@@ -56,7 +56,7 @@ class Process implements Runnable {
         this.creationTime = System.currentTimeMillis(); // Record when process is created
         this.totalWaitingTime = 0; // Start with 0 waiting time
         this.lastReadyTime = this.creationTime; // Initially, process is ready at creation
-        
+    
     }
 
     // This method will be called when the thread for this process is started
@@ -420,6 +420,7 @@ public class SchedulerSimulation {
        
                          // FEATURE 3: Method to display waiting time summary table
     // Shows Process Name, Burst Time, Priority, and Waiting Time for each process
+    }
     public static void displayWaitingTimeSummary() {
         // Print table header with decorative border
         System.out.println(Colors.BOLD + Colors.BRIGHT_CYAN + 
@@ -489,4 +490,3 @@ public class SchedulerSimulation {
                           Colors.RESET + "\n");
     }
 }
-
