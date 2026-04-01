@@ -44,20 +44,20 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Solution**: whatched a tutorial on youtube
 
-**Time spent**: 45 hour
+**Time spent**: 25 minutes
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [Mar 29, 2026,3:00pm]
+**What I did**: implementing feature 1
 
-**Details**: 
+**Details**: added a priority field to the process class and updated the construcor to genrate random priorties
 
-**Challenges**: 
+**Challenges**: modifying the output meesage to display the priority when a process enters the ready queue
 
-**Solution**: 
+**Solution**: used system.out.print message to format the message
 
-**Time spent**: 
+**Time spent**: 1 hour 
 
 ---
 
