@@ -87,16 +87,16 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [April 1 ,2026,3:00pm]
+**What I did**: final testing and video recording
 
-**Details**: 
+**Details**: ran final test to make sure all features woek and completed reflection.md and answers.md
 
-**Challenges**: 
+**Challenges**: keeping the video duration to 2 minutes
 
-**Solution**: 
+**Solution**: prepared a script to make sure the walkthrough video was well done
 
-**Time spent**: 
+**Time spent**: 3 hours
 
 ---
 
