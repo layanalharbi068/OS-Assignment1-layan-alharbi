@@ -75,15 +75,15 @@ Document your development process as you work on the assignment. Add entries sho
 ---
 
 ### Entry 4 - [Date and Time]
-**What I did**:
+**What I did**:implementing feature 3
 
-**Details**: 
+**Details**: added for creationTime and totalWitingTime in the process class and implemnented a summmary tablee 
 
-**Challenges**: 
+**Challenges**: calculating the precise waiting time using Systems.currentTimeMillis()
 
-**Solution**: 
+**Solution**: tracked the time a process spends in the queue vs its execution time to get the accurate time
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
