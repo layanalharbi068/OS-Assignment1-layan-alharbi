@@ -61,21 +61,21 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [Mar 30,2026,3:00pm]
+**What I did**: implemnting feature 2
 
-**Details**: 
+**Details**: declared a static counter variable in schedulerSimulation to track context switches 
 
-**Challenges**: 
+**Challenges**: identifying the exact point in thr scheduler loop where a context switch occurs
 
-**Solution**: 
+**Solution**: incremented the counter everytime a new thread process starts its execution cycle
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
 ### Entry 4 - [Date and Time]
-**What I did**: 
+**What I did**:
 
 **Details**: 
 
