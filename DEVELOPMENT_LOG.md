@@ -115,10 +115,10 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [6 hours and 25 minutes]
 
-**Most challenging part**: 
+**Most challenging part**: implementing feature 2
 
-**Most interesting learning**: 
+**Most interesting learning**: implementing feature 3
 
-**What I would do differently next time**: 
+**What I would do differently next time**: i would manage my time better 
